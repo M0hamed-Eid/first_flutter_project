@@ -21,7 +21,7 @@ A simple Flutter application that demonstrates basic image handling and UI layou
 
 1. Clone this repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/M0hamed-Eid/first_flutter_project.git
 ```
 
 2. Navigate to the project directory
